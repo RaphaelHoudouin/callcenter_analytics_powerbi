@@ -23,11 +23,8 @@ Below is an overview of the Power BI dashboard showcasing the key performance in
 - **Data Sources**: CSV/Excel files containing call center operational data.  
 - **DAX (Data Analysis Expressions)**: Used for creating calculated measures and custom KPIs.
 
-## Repository Structure  
-```plaintext
-callcenter_dashboard/
-│
-├── data/                # data files .xlsx or csv
-├── pbix/                # Power BI project files
-└── README.md            # Project description
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
 
