@@ -6,7 +6,13 @@ This repository contains a **Power BI dashboard project** designed to analyze an
 ## Objectives  
 - Track key performance indicators (KPIs) such as **Ptotal revenue**P, **Prevenue by site or employee**P, **Paverage call time**, and **Paverage wait time**, and **Service Level Agreement (SLA)** compliance.
 - Visualize trends and patterns to identify peak call times and agent performance.  
-- Provide actionable insights to optimize resource allocation and improve customer experience.  
+- Provide actionable insights to optimize resource allocation and improve customer experience.
+
+## Power BI Dashboard Overview  
+Below is an overview of the Power BI dashboard showcasing the key performance indicators (KPIs) for the call center:
+
+![Dashboard Overview](visuals/dashboard_overview.png)
+
 
 ## Tools & Technologies  
 - **Power BI**: For creating interactive dashboards and visualizations.  
@@ -21,12 +27,10 @@ callcenter_dashboard/
 ├── pbix/                # Power BI project files
 └── README.md            # Project description
 
-
 ## Contact
 
 For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
 GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
-
 
 
 
