@@ -1,4 +1,4 @@
-# Call Center Dashboard with Power BI  
+# Call Center Dashboard Power BI  
 
 ## Project Overview  
 This repository contains a **Power BI dashboard project** designed to analyze and visualize key performance metrics for a call center. The dashboard helps stakeholders monitor operational efficiency, identify trends, and make data-driven decisions to improve customer support.  
