@@ -11,7 +11,7 @@ This repository contains a **Power BI dashboard project** designed to analyze an
 ## 🛠Tools & Technologies  
 - **Power BI**: For creating interactive dashboards and visualizations.  
 - **Data Sources**: CSV/Excel files containing call center operational data.  
-- **DAX (Data Analysis Expressions)**: Used for creating calculated measures and custom KPIs.  
+- **DAX (Data Analysis Expressions)**: Used for creating calculated measures and custom KPIs.
 
 ## Repository Structure  
 ```plaintext
@@ -21,10 +21,12 @@ callcenter_dashboard/
 ├── pbix/                # Power BI project files
 └── README.md            # Project description
 
----
 
 ## Contact
 
 For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
 GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
- 
+
+
+
+
