@@ -11,10 +11,10 @@ This repository contains a **Power BI dashboard project** designed to analyze an
 ## Power BI Dashboard Overview  
 Below is an overview of the Power BI dashboard showcasing the key performance indicators (KPIs) for the call center:
 
-### Dashboard Overview - Revenue Insights  
+### Dashboard Overview - Performance Metrics 
 ![Dashboard Overview 1](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi/blob/main/pbix/visuals/dashboard_overview1.png)  
 
-### Dashboard Overview - Performance Metrics  
+### Dashboard Overview - Revenue Insights  
 ![Dashboard Overview 2](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi/blob/main/pbix/visuals/dashboard_overview2.png)  
 
 
