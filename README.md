@@ -17,6 +17,6 @@ This repository contains a **Power BI dashboard project** designed to analyze an
 ```plaintext
 callcenter_dashboard/
 │
-├── data/                # Sample or anonymized data files
+├── data/                # data files .xlsx or csv
 ├── pbix/                # Power BI project files
 └── README.md            # Project description
